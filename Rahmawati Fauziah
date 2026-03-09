@@ -5,8 +5,6 @@ Nama kelompok :
 2. Putri Aulia Amanda
 3. Layla Khairani
 4. Muthia Mua’adzarah
-Tujuan
-Mahasiswa memahami konsep dasar RPL dan ruang lingkup proyek yang akan dikerjakan selama satu semester.
 Teori Singkat 
 Rekayasa Perangkat Lunak (RPL) adalah disiplin ilmu yang membahas pendekatan sistematis, terstruktur, dan terukur dalam pengembangan, pengoperasian, dan pemeliharaan perangkat lunak. Fokus utama RPL adalah kualitas, efisiensi, dan keberlanjutan software.
 Permasalahan 
@@ -14,7 +12,7 @@ Saat user berjualan di platform tiktok shop, shopee, tokopedia sering terjadi ov
 Nama Sistem : Tukang.In
 Tujuan system
 system ini bertujuan untuk mempermudah user manajemen stok barang agar tidak perlu mengecek satu persatu platform ke platform lain. Untuk mengontrol pemasukkan dan pengeluaran keuangan serta memantau keuntungan penjualan setiap bulan 
-Target pengguna : pengusaha 
+Target pengguna : pengusaha Toko Bangunan 
 Tema : Sistem Manajemen Penjualan Alat Pertukangan Berbasis Digital untuk Meningkatkan Efisiensi Penjualan dan Pengelolaan Stok
 Cara pembuatan reposistor git: 
 Langkah-langkah 
